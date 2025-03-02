@@ -29,5 +29,6 @@ This project is a **Resume Screening Application** built using **Streamlit**, **
    streamlit run app.py
 
 
+
   
 
