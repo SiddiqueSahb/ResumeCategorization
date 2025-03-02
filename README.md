@@ -1,1 +1,1 @@
-# ResumeCategorization
+# Resume Category Prediction App
