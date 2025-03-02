@@ -24,4 +24,10 @@ This project is a **Resume Screening Application** built using **Streamlit**, **
    ```bash
    git clone https://github.com/yourusername/resume-screening.git
    cd resume-screening
+2. Run the Streamlit app:
+ ```bash
+   streamlit run app.py
+
+
+  
 
